@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact Georgia</title>
+  <style>
+    h1, h2, h3 {
+      color: blue;
+    }
+    nav a {
+      margin-right: 15px;
+      color: black;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <h1>Contact Me</h1>
+
+  <p>Email: georgiaisiodu@mail.com</p>
+  <p>GitHub: <a href="https://github.com/giamanni" target="_blank">giamanni</a></p>
+
+</body>
+</html>
